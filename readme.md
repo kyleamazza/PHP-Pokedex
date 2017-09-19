@@ -1,0 +1,1 @@
+Searchable database using the PokeAPI using PHP and SQL. Allows for addition of new entries.
