@@ -10,7 +10,7 @@ if(isset($_POST['genTables'])) {
 function connectDB() {
 	$servername = "www.smccs85.com";
 	$username = "kprovenc";
-	$password = "4H*DmBrhBd";
+	$password = "***********";
 	$dbName = "kprovenc_project";
 	// $username = "root";
 	$db = new mysqli('localhost', $username, $password, $dbName);
